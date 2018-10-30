@@ -1,0 +1,8 @@
+hash function：
+犧牲安全以改善、較慢、只是不重複
+
+cryptographic hash function：
+更加安全、快速、同樣的訊息產生同樣的hash且不同文件不重複
+
+EX:指紋辨識(安全、同樣，用cryptographic hash function)
+
